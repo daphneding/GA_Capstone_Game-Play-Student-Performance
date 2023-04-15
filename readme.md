@@ -4,7 +4,7 @@
 
 Learning can be fun. There are many educational platforms exploring the space of gamified learning. 
 
-A good example is the game library of [Education.com](https://www.education.com/games/). M
+A good example is the game library of [Education.com](https://www.education.com/games/).
 
 ![image](https://user-images.githubusercontent.com/121992397/232182408-587b732e-7cc4-4678-8fd2-ad10b9f2fe62.png)
 
