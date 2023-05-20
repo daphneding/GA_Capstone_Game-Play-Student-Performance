@@ -4,16 +4,15 @@
 
 Learning can be fun. There are many educational platforms exploring the space of gamified learning. 
 
-A good example is the game library of [Education.com](https://www.education.com/games/).
+The gamified learning experience offers a powerful approach to education, leveraging the motivational aspects of games to enhance engagement, retention, and collaboration. By incorporating game elements into the learning process, educators can create immersive and interactive educational environments that foster a love for learning and empower learners to reach their full potential.
 
-![image](https://user-images.githubusercontent.com/121992397/232182408-587b732e-7cc4-4678-8fd2-ad10b9f2fe62.png)
+Good examples of successful gamified learning spaces are [PBS Wisconsin Education](https://pbswisconsineducation.org/) and [Education.com](https://www.education.com/games/).
 
-However, the general lack of tracking and supporting system makes it difficult for students to understand the gaps in learning and to achieve the optimal learning outcomes. 
 
 
 ## Problem Statement
 
-This project is an enhanced version of the [Kaggle Competition: Predict Student Performance from Game Play](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/overview).
+This project is a version of the [Kaggle Competition: Predict Student Performance from Game Play](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/overview).
 
 The aim is to develop a reliable model trained on game logs for a group of students, and predict their correctness in answering questions set at different milestones in the game. Based on the different outcomes, students will be recommended with suitable game content for further learning and practice. 
 
