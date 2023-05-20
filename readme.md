@@ -8,7 +8,7 @@ The gamified learning experience offers a powerful approach to education, levera
 
 Good examples of successful gamified learning spaces are [PBS Wisconsin Education](https://pbswisconsineducation.org/) and [Education.com](https://www.education.com/games/).
 
-This project is a version of the [Kaggle Competition: Predict Student Performance from Game Play](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/overview). It uses one of the largest publically available game log data from the educational title: "Jo Wilder and the Capitol Case".
+This project is a version of the [Kaggle Competition: Predict Student Performance from Game Play](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/overview). It uses one of the largest publicly available game log data from the educational title: "Jo Wilder and the Capitol Case".
 
 ![image](https://github.com/daphneding/GA_Capstone_Game-Play-Student-Performance/assets/121992397/24c4e884-97a0-4c53-94b4-67b9bca7a677)
 ![image](https://github.com/daphneding/GA_Capstone_Game-Play-Student-Performance/assets/121992397/cc0733bf-7fbe-44f5-97d3-1894fb46ab6e)
