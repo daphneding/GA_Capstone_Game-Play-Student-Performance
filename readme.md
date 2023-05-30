@@ -1,4 +1,4 @@
-# Capstone Project - Game Play and Student Performance
+# Game Play and Student Performance
 
 ## Executive Summary
 
